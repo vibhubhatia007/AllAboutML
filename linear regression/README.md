@@ -1,1 +1,1 @@
-linear regression 
+linear regression with complete visualisation
